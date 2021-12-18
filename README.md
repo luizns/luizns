@@ -1,12 +1,12 @@
-## <div align="center"> Olá, sou Luiz Nascimento 👋, Desenvolvedor Backend Jr, em transição carreira.</div>  
+### <div align="center"> Olá, sou Luiz Nascimento 👋, Desenvolvedor Backend Jr, em transição de carreira.</div>  
 
 <br/> 
 
-🔭 Eu faço curso desenvolvimento fullstack SENAI 
+🔭  Eu faço curso desenvolvimento fullstack SENAI 
 
-🌱Atualmente, estou estudando Java, Spring e AWS
+🌱 Atualmente, estou estudando Java, Spring e AWS
 
-⚡ Amante de tecnologia e café.
+⚡  Amante de tecnologia e café.
 
 <br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizns&show_icons=true&theme=vision-friendly-dark" alt="luizns's stats"/>
