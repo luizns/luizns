@@ -1,4 +1,4 @@
-## <div align="center"> Olá, sou Luiz Nascimetno 👋, Desenvolvedor Backend Jr, em transição carreira.</div>  
+## <div align="center"> Olá, sou Luiz Nascimento 👋, Desenvolvedor Backend Jr, em transição carreira.</div>  
 
 <br/> 
 
@@ -9,7 +9,7 @@
 ⚡ Amante de tecnologia e café.
 
 <br><br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=luizns&show_icons=true&theme=vision-friendly-dark" alt="luizns's stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizns&show_icons=true&theme=vision-friendly-dark" alt="luizns's stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizns&layout=compact&theme=vision-friendly-dark" alt="luizns's most languages"/>
 <br/>  
 
