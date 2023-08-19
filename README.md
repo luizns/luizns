@@ -2,8 +2,6 @@
 
 <br/> 
 
-🌱 Dev em transição de carreira.
-
 🚀 Atualmente, estou estudando  <strong>Java,&nbsp;Spring Boot, &nbsp;RabbitMQ ,&nbsp;AWS,&nbsp; API e Microsserviços</strong> , 
 
 ⚡  Amante de tecnologia :technologist: e café :coffee:.
