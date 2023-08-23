@@ -1,4 +1,4 @@
-# <div align="center"> Olá, sou Luiz Nascimento 👋, Desenvolvedor Backend Java</div>  
+<h1 align="left"> Olá, sou Luiz Nascimento 👋, Dev Java Backend  </h1>
 
 <br/> 
 
@@ -6,19 +6,21 @@
 
 ⚡  Amante de tecnologia :technologist: e café :coffee:.
 
-***************	
-<div align="center">
-  <a href="https://github.com/luizns">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luizns&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizns&layout=compact&langs_count=7&theme=tokyonight"/>
+</br>
+
+
+<h3 align="left">GitHub Stats</h3>
+
+
+<div align="left">
+<img height="165em"  src = "https://github-readme-stats.vercel.app/api?username=luizns&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" />&nbsp;
+<img height="165em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luizns&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
+<h3 align="left">💻Tech Stack</h3>
+<hr>
 
-##
-
-<h2 align="center">Tecnologias</h3>
-<div align="center">
+<div align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="40"/> &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;
@@ -31,29 +33,16 @@
  <a href="https://aws.amazon.com/" target="_blank"><img s src="https://skillicons.dev/icons?i=aws" alt="AWS"  height="40" width="40" /></a> 
 
 
- ##
-
-<br/>  
-<div align="center"><br> 
+<h3 align="left">🌐Socials</h3> 
+<hr>
+<div align="left">
 <a href="https://github.com/luizns" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 2px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 1px;" />
 </a>
 <a href="https://linkedin.com/in/luiznsilva" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 2px;" /></a>
- <a href = "mailto:luizns.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" style="margin-bottom: 2px;" ></a>
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 2px;" /></a>
+ <a href = "mailto:luizns.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  style="margin-bottom: 2px;" /></a>
 
 </div>  
-<!--
-**luizns/luizns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
