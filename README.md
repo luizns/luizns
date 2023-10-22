@@ -1,4 +1,4 @@
-<h1 align="left"> Olá, sou Luiz N Silva 👋, Dev Java Backend  </h1>
+<h1 align="left"> Olá, sou Luiz Silva 👋, Dev Java Backend  </h1>
 
 <br/> 
 
@@ -11,8 +11,6 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-
-<div align="left">
 <img height="165em"  src = "https://github-readme-stats.vercel.app/api?username=luizns&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" />&nbsp;
 <img height="165em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luizns&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
@@ -39,8 +37,7 @@
 <a href="https://github.com/luizns" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 1px;" />
 </a>
-<a href="https://linkedin.com/in/luiznsilva" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 2px;" /></a>
+
  <a href = "mailto:luizns.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"  style="margin-bottom: 2px;" /></a>
 
